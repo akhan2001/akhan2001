@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m a **DevOps Engineer** and **tech enthusiast*
 
 ---
 
-## 🌱 Current Projects
+## 🖥️ Current Projects
 1. **Auto Shop Agency**: Empowering auto shops with tech-driven solutions (branding, marketing, and SaaS platforms).  
 2. **MotorMinds CRM**: Building a CRM tailored for automotive businesses.  
 3. **Open Source Contributions**: Sharing tools and scripts to streamline workflows in cloud and DevOps.
