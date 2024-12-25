@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I’m a **DevOps Engineer** and **tech enthusiast*
 ---
 
 ## 📫 Let’s Connect!
-- LinkedIn: [linkedin.com/in/abdullah-khan-2001]([https://linkedin.com/in/abdullahkhan](https://www.linkedin.com/in/abdullah-khan-2001/))  
+- LinkedIn: [abdullah-khan-2001](https://www.linkedin.com/in/abdullah-khan-2001/)
 - Website: [autoshopagency.com](https://example.com)  
 - Email: [m.abdullah.khan567@gmail.com](mailto:m.abdullah.khan567@gmail.com)
 
