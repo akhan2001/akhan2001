@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m a **DevOps Engineer** and **tech enthusiast** with a deep passion for merging **technology** and the **automotive world**. My journey combines software engineering, cloud infrastructure, and automation with hands-on experience in the automotive industry.
 
 ## 🚗 About Me  
-- **DevOps Enthusiast**: Skilled in cloud platforms (AWS, Azure, GCP), CI/CD pipelines, and automation.  
+- **DevOps Enthusiast**: Skilled in software development, cloud infrastructure, and pipeline automation, leveraging platforms like Azure to optimize workflows and improve reliability.  
 - **Automotive Innovator**: Founder of [Auto Shop Agency](https://autoshopagency.webflow.io) – bridging the gap between tech and auto shops with digital solutions.  
 - **Builder of Solutions**: Creating projects that solve real-world problems, including SaaS platforms and community hubs for car enthusiasts.  
 
