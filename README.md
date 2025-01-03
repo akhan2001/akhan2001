@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Abdullah Khan!
 
-Welcome to my GitHub profile! I’m a **DevOps Engineer** and **tech enthusiast** with a deep passion for merging **technology** and the **automotive world**. My journey combines software engineering, cloud infrastructure, and automation with hands-on experience in the automotive industry.
+Welcome to my GitHub profile! I’m a **Software Engineer** and **Automotive Enthusiast** with a deep passion for merging **technology** and the **automotive world**.
 
 ## 🚗 About Me  
-- **DevOps Enthusiast**: Skilled in software development, cloud infrastructure, and pipeline automation, leveraging platforms like Azure to optimize workflows and improve reliability.  
-- **Automotive Innovator**: Founder of [Auto Shop Agency](https://autoshopagency.webflow.io) – bridging the gap between tech and auto shops with digital solutions.  
+- **DevOps Engineer**: Skilled in software development, cloud infrastructure, and pipeline automation, leveraging platforms like Azure to optimize workflows and improve reliability.  
+- **Automotive Enthusiast**: Founder of [Auto Shop Agency](https://autoshopagency.webflow.io) – bridging the gap between tech and auto shops with digital solutions.  
 - **Builder of Solutions**: Creating projects that solve real-world problems, including SaaS platforms and community hubs for car enthusiasts.  
 
 ---
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I’m a **DevOps Engineer** and **tech enthusiast*
 ## 🖥️ Current Projects
 1. **Auto Shop Agency**: Empowering auto shops with tech-driven solutions (branding, marketing, and SaaS platforms).  
 2. **MotorMinds CRM**: Building a CRM tailored for automotive businesses.  
-3. **Open Source Contributions**: Sharing tools and scripts to streamline workflows in cloud and DevOps.
+3. **Project Contributions**: Sharing tools and scripts to streamline workflows in cloud and DevOps.
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I’m a **DevOps Engineer** and **tech enthusiast*
 
 ## 📫 Let’s Connect!
 - LinkedIn: [abdullah-khan-2001](https://www.linkedin.com/in/abdullah-khan-2001/)
-- Website: [autoshopagency.com](https://example.com)  
+- Instagram: [abdxllahkhan](https://www.instagram.com/abdxllahkhan)  
 - Email: [m.abdullah.khan567@gmail.com](mailto:m.abdullah.khan567@gmail.com)
 
 ---
