@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Abdullah Khan!
+# Hi 👋 I'm Abdullah!
 
 Welcome to my GitHub profile! I’m a **Software Engineer** and **Automotive Enthusiast** with a deep passion for merging **technology** and the **automotive world**.
 
