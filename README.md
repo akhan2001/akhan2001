@@ -9,18 +9,6 @@ Welcome to my GitHub profile! I’m a **Software Engineer** and **Automotive Ent
 
 ---
 
-## 🔧 My Expertise
-- **Languages & Tools**:  
-  ![Python](https://img.shields.io/badge/Code-Python-blue) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  
-  ![Docker](https://img.shields.io/badge/Tools-Docker-blue) ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-lightblue)  
-  ![Terraform](https://img.shields.io/badge/Tools-Terraform-purple)  
-- **Domains**:  
-  - Cloud Infrastructure & Automation  
-  - Automotive Technology & SaaS Development  
-  - CI/CD & Workflow Optimization  
-
----
-
 ## 🖥️ Current Projects
 1. **Auto Shop Agency**: Empowering auto shops with tech-driven solutions (branding, marketing, and SaaS platforms).  
 2. **MotorMinds CRM**: Building a CRM tailored for automotive businesses.  
