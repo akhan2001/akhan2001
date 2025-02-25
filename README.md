@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a **Software Engineer** and **Automotive Ent
 
 ## 🚗 About Me  
 - **DevOps Engineer**: Skilled in software development, cloud infrastructure, and pipeline automation, leveraging platforms like Azure to optimize workflows and improve reliability.  
-- **Automotive Enthusiast**: Founder of [Auto Shop Agency](https://autoshopagency.webflow.io) – bridging the gap between tech and auto shops with digital solutions.  
+- **Automotive Enthusiast**: Co-Founder and CTO of [Motorminds](https://motorminds.ca) – bridging the gap between tech and auto shops with digital solutions.  
 - **Builder of Solutions**: Creating projects that solve real-world problems, including SaaS platforms and community hubs for car enthusiasts.  
 
 ---
